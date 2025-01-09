@@ -1,4 +1,4 @@
-The dataset is Self-made and does not guarantee accuracy.
+The dataset is Self-made and does not guarantee accuracy.And I haven’t uploaded most of the results.
 This project focuses on analyzing the impact of climate policy uncertainty on corporate greenwashing behavior, 
 specifically in the context of Chinese companies. The aim is to quantify companies' responsiveness to climate policies. 
 We utilized BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art deep learning model for natural language processing,
